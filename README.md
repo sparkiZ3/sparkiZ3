@@ -10,6 +10,7 @@ I'm a french student developer
 * 🖥️  See my portfolio at [My portfolio](http://portfolio.sparkiZ3.fr)
 * ✉️  You can contact me at [noan.lissillour@gmail.com](mailto:noan.lissillour@gmail.com)
 * 🧠  I'm learning javascript
+* :octocat: I'm more active on the Univ-nantes gitlab
 
 ### Skills
 
