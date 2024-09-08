@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/noan-lissillour-6152b7278/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://github.com/sparkiZ3">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github" alt="Github-badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://codepen.io/sparkiZ3">
     <img src="https://img.shields.io/badge/Codepen-0A0A08?style=for-the-badge&logo=codepen&logoColor=white" alt="codePen-badge"/>
   </a>
 </div>
