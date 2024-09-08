@@ -72,10 +72,6 @@ I'm a french student developer
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
 </div>
 
-## 🔥 My stats
-
-
-
 ### Cyber skills
 
 <img src="https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3&style=weedy&gstats=show"/>
