@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github" alt="Github-badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="codePen-badge"/>
+    <img src="https://img.shields.io/badge/Codepen-0A0A08?style=for-the-badge&logo=codepen&logoColor=white" alt="codePen-badge"/>
   </a>
 </div>
 
