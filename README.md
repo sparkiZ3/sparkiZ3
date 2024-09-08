@@ -37,7 +37,7 @@ I'm a french student developer
 
 ### Cyber skills
 
-<img src="https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3&style=AllBlue&gstats=show"/>
+<img src="https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3&style=weedy&gstats=show"/>
 
 
 ### Socials
