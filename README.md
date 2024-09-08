@@ -13,6 +13,10 @@
   </a>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
 I'm a french student developer
 
 * 🌍  I'm based in Nantes
