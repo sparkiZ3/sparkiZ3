@@ -30,7 +30,7 @@ I'm a french student developer
 ### :hammer_and_wrench: Languages and tools :
 
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
 </div>
 
 
