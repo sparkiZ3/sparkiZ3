@@ -33,4 +33,7 @@ I'm a french student developer
 <a href="https://github.com/sparkiZ3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkiZ3&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3)
+![Root-me-stats]([[https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3](https://root-me-diff.vercel.app/rm-gh?nickname=Ech0&style=astral&gstats=show)](https://root-me-diff.vercel.app/rm-gh?nickname=Ech0&style=astral&gstats=show))
+
+
+<img src="https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3&style=astral&gstats=show"/>
