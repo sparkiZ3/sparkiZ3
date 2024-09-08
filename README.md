@@ -68,6 +68,7 @@ I'm a french student developer
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
 </div>
 
+## 🔥 My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkiz3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
