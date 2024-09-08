@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="border-radius:50%;" src="https://portfolio.sparkiz3.fr/PP.png" width="100"/>
+  <img src="https://portfolio.sparkiz3.fr/PP.png" width="100" border-radius="50%"/>
 </div>
 
 I'm a french student developer
