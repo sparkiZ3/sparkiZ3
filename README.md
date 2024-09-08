@@ -2,7 +2,7 @@
   <img src="https://portfolio.sparkiz3.fr/PP1.png" width="100" style="max-width: 100%;border-radius: 50%;"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/noan-lissillour-6152b7278/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
