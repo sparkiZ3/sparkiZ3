@@ -34,3 +34,5 @@ I'm a french student developer
 
 
 ![Root-me-stats] (https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3)
+
+< img src=" https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3"/>
