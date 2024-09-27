@@ -22,7 +22,7 @@ I'm a french student developer
 * 🌍  I'm based in Nantes
 * 🖥️  See my portfolio at [My portfolio](http://portfolio.sparkiZ3.fr)
 * ✉️  You can contact me at [noan.lissillour@gmail.com](mailto:noan.lissillour@gmail.com)
-* 🧠  I'm learning javascript
+* 🧠  I'm learning javascript framework (React) and cybersecurity
 * :octocat: I'm more active on the Univ-nantes gitlab
 
 ---
