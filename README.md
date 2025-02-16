@@ -53,3 +53,8 @@ I'm a french student developer
 
 <img href="https://www.root-me.org/sparkiZ3" src="https://root-me-diff.vercel.app/rm-gh?nickname=sparkiz3&style=weedy&gstats=show"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparkiz3/sparkiz3/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparkiz3/sparkiz3/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
