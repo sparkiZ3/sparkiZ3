@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://old.sparkiz3.fr/files/profilePic.png" width="100" style="max-width: 100%;border-radius: 50%;"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Full+stack+developer;Cybersecurity" alt="Typing SVG" /></a>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Full+stack+developer;Cybersecurity)](https://git.io/typing-svg)
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/noan-lissillour-6152b7278/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
