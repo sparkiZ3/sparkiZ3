@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://old.sparkiz3.fr/files/profilePic.png" width="100" style="max-width: 100%;border-radius: 50%;"/>
+</div>
+<div id="header" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Full+stack+developer;Cybersecurity" alt="Typing SVG" /></a>
 </div>
 <div id="badges" align="center">
